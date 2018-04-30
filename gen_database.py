@@ -5,7 +5,7 @@ from time import sleep
 import numpy as np
 import math
 
-GOOGLE_API_KEY = 'AIzaSyBvpSqVuVoihLyhR0P-_Gf47PGngEQ_K3M'
+GOOGLE_API_KEY = 'AIzbSyBvpSqVuVoihLyhR0P-_Gf47PGngEQ_K3M'
 R = 3961
 
 # This will be the proposed business address
